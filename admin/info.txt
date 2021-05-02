@@ -1,0 +1,4 @@
+Use the following login credentials to login an admin account.
+
+Username: mike@example.com
+Password: ninja12qw!@QW
